@@ -1,0 +1,2 @@
+G:\\Desktop\\serverstore1\\
+ServerOne localhost 5000
